@@ -32,11 +32,28 @@ There are countless factors that govern a football match. We decided to use 20 f
 
 10. Away team - both team to score percentage: The percentage of matches in which both the away team and their opponent managed to score.
 
-11. Home team - under 2.5 goals percentage: The percentage of the home teams' matches, in which the total of goals scored was less than 3
+11. Home team - under 2.5 goals percentage: The percentage of the home teams' matches, in which the total of goals scored was less than 3.
 
-12. Away team - under 2.5 goals percentage: The percentage of the away teams' matches, in which the total of goals scored was less than 3
+12. Away team - under 2.5 goals percentage: The percentage of the away teams' matches, in which the total of goals scored was less than 3.
 
-13. Home team - over 2.5 goals percentage: The percentage of the home teams' matches, in which the total of goals scored was more than 3
+13. Home team - over 2.5 goals percentage: The percentage of the home teams' matches, in which the total of goals scored was more than 3.
 
-14. Away team - under 2.5 goals percentage: The percentage of the away teams' matches, in which the total of goals scored was more than 3
+14. Away team - under 2.5 goals percentage: The percentage of the away teams' matches, in which the total of goals scored was more than 3.
+
+15. Home team - corners for per game: The average number of corners the home team wins per game.
+
+16. Away team - corners for per game: The average number of corners the away team wins per game.
+
+17. Home team - corners against per game: The average number of corners the home team's opponent wins per game.
+
+18. Away team - corners for per game: The average number of corners the away team's opponent wins per game.
+
+19. Home team - cards against per game: The average number of cards against the home team per game.
+
+20. Away team - - cards against per game: The average number of cards against the away team per game.
+
+The ultimate goal of this project is to build a model, that will consider these 20 factors and predict the outcome of the game. Although this model may have some betting applications, the primary goal of this project is not sports betting. We choose to build a model about football for the following reasons. 
+- Football is a complicated sport and the results are governed by numerous factors. As a low-scoring sports, sometimes, the results can have a weak connection to the teams' performance.  This complicated nature of football provides an excellent challenge and many learning opportunities.
+- The 3 - result nature of football provides a clear baseline (33%), in order to evaluate our model's accuracy
+- Football is a personal passion, and that fact provided me with an extra motive for a productive analysis. 
 
