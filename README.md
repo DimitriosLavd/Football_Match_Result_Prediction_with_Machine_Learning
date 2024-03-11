@@ -59,15 +59,15 @@ The ultimate goal of this project is to build a model, that will consider these 
 
 ### Tools
 
--Google Sheets
--WPS Sheets
--Python
+- Google Sheets
+- WPS Sheets
+- Python
 
 ### Data Sources
 
 The raw data for this project was found in the following websites 
 
--[FootyStats](https://footystats.org/)
+- [FootyStats](https://footystats.org/)
 
 
 
