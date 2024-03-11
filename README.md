@@ -55,5 +55,19 @@ There are countless factors that govern a football match. We decided to use 20 f
 The ultimate goal of this project is to build a model, that will consider these 20 factors and predict the outcome of the game. Although this model may have some betting applications, the primary goal of this project is not sports betting. We choose to build a model about football for the following reasons. 
 - Football is a complicated sport and the results are governed by numerous factors. As a low-scoring sports, sometimes, the results can have a weak connection to the teams' performance.  This complicated nature of football provides an excellent challenge and many learning opportunities.
 - The 3 - result nature of football provides a clear baseline (33%), in order to evaluate our model's accuracy
-- Football is a personal passion, and that fact provided me with an extra motive for a productive analysis. 
+- Football is a personal passion, and that fact provided me with an extra motive for a productive analysis.
+
+### Tools
+
+-Google Sheets
+-WPS Sheets
+-Python
+
+### Data Sources
+
+The raw data for this project was found in the following websites 
+
+-[FootyStats](https://footystats.org/)
+
+
 
