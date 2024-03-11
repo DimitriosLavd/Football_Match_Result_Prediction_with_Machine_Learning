@@ -69,5 +69,11 @@ The raw data for this project was found in the following websites
 
 - [FootyStats](https://footystats.org/)
 
+- [The Stats Don't Lie](https://www.thestatsdontlie.com/)
+
+- [Greek Super League](https://www.slgr.gr/el/)
+
+- [Premier League](https://www.premierleague.com/match/93600)
+
 
 
