@@ -12,6 +12,18 @@ In this project, we will attempt to use factors that govern a football match in 
 
 There are countless factors that govern a football match. We decided to use 20 factors to try and predict the outcome of each game. These factors are the following
 
-1. Home team expected goals per game: The average number of goals per game, that the home team is expected to score, based on the quality of the chances they produce.
+1. Home team - expected goals per game: The average number of goals per game, that the home team is expected to score, based on the quality of the chances they produce.
 
-2. Away  team expected goals per game: The average number of goals per game, that the home team is expected to score, based on the quality of the chances they produce. 
+2. Away team - expected goals per game: The average number of goals per game, that the home team is expected to score, based on the quality of the chances they produce.
+
+3. Home team - clean sheet percentage: The percentage of the matches in which the home team did not concede a goal.
+
+4. Away team - clean sheet percentage: The percentage of the matches in which the away team did not concede a goal.
+
+5. Home team - failed to score percentage: The percentage of the matches in which the home team failed to score.
+
+6. Away team - failed to score percentage: The percentage of the matches in which the away team failed to score.
+
+7. Home team  - both team to score percentage: The percentage of matches in which both the home team and their opponent managed to score
+
+8. Away team  - both team to score percentage: The percentage of matches in which both the away team and their opponent managed to score
