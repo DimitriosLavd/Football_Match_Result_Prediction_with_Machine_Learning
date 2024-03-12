@@ -93,6 +93,21 @@ For our model to work, we needed stats that effectively reflect the teams' perfo
 
 ![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/dc6ad963-cf91-47e6-b082-ad284f373619)
 
+We dedicated the following numbers for each game's result:
+
+1 -> Home Win
+2 -> Away Win 
+3 -> Draw 
+
+In total, we stored data about the result of 159 matches of the 2023/24 Greek Super League
+As a final step, we downloaded the stats table and the result table as CSV files with the following names. 
+
+Stats Tabel ->League_Advanced_Stats.csv
+Results tabel -> SL_RESULTS.csv
+
+
+
+
 
 
 
