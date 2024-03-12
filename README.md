@@ -105,7 +105,10 @@ In total, we stored data about the result of 159 matches of the 2023/24 Greek Su
 As a final step, we downloaded the stats table and the result table as CSV files with the following names. 
 
 Stats Tabel ->League_Advanced_Stats.csv
+
 Results tabel -> SL_RESULTS.csv
+
+### Data Manipulation 
 
 
 
