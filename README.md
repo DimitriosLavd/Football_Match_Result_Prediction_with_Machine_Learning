@@ -6,7 +6,7 @@ My data analysis journey started by learning about data analysis processes and t
 
 The next logical step in my journey was to develop my first predictive machine learning algorithm. To do so, I decided to use python programming in order to develop a random - forest classifier. Although I could use a random forest algorithm about virtually anything, I decided to use my passion about football as fuel for this project. 
 
-### Project layout and goals
+### Project Layout and Goals
 
 In this project, we will attempt to use factors that govern a football match in order to predict the final outcome of the game. A football match can have 3 possible outcomes, home win, away win and draw. If we try to predict the outcome completely by random, we have a 33% chance to correctly predict the outcome. Given the - 3 possible results - nature of football, we will consider a 33% prediction accuracy as a baseline in order to evaluate our model. 
 
@@ -75,11 +75,16 @@ The raw data for this project was found in the following websites
 
 - [Premier League](https://www.premierleague.com/match/93600)
 
-### Data gathering and manipulation
+### Data Collection 
 
-In order for the project to be personal and unique, I decided to firstly train my model with data from my native country's football league, the Greek Super League. Firstly, I found the relative data in tables at the FootyStats website. The tables had the following stracture: 
+In order for the project to be personal and unique, we decided to firstly train my model with data from my native country's football league, the Greek Super League. Firstly, we found the relative data in tables at the FootyStats website. The tables had the following stracture: 
 
 ![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/a547ddf1-096d-44f2-a0ea-cc238bb01ea0)
+
+We did not own the paid version of the website and we could not download the tables as csv files. In order to overcome this issue, we created a Google sheet file and entered the data manually. Scrapping the data using python is not authorized by the website's policy.The cards and corner stats were not available at the Footy Stats website, so we sourced these stats from the Stats Don't Lie website.
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/ea71a985-ffec-4042-918e-7964abf88945)
+
 
 
 
