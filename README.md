@@ -89,6 +89,13 @@ After gathering all the relevant data, our collective Google Sheet file had the 
 
 ![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/740fb664-6891-491e-b61d-7071fb09a163)
 
+For our model to work, we needed stats that effectively reflect the teams' performance. All the above stats are averages, so we needed a big enough sample of matches. We took into advantage stats from 24 match days of the 2023/24 Greek Super League. Every team had played 24 competitive games in the season, so the stats above realistically reflect their performance.In addition to the performance stats of each team, we needed to feed our models with the results of each game they played against each other. After all, the main objective of our model is to analyze the performance of the two opposing teams and predict the outcome of the game. We found every result of the 24 first Greek Super League match days and stored them in a Google Sheet file. Except of the game outcome (home win, away win, draw), we also added the number of goals each team scored in each of the games. In the analysis, we will show below, we used the expected goals metric instead of the number of the actual goals scored. As we mentioned before, football is a low scoring goal and the number of goals are not always closely related to the teams' performance. We could say that the expected goals metric is a more fair way to judge a team. The result Google Sheets file is shown below. 
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/dc6ad963-cf91-47e6-b082-ad284f373619)
+
+
+
+
 
 
 
