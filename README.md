@@ -85,6 +85,16 @@ We did not own the paid version of the website and we could not download the tab
 
 ![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/ea71a985-ffec-4042-918e-7964abf88945)
 
+After gathering all the relevant data, our collective Google Sheet file had the following form:
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/740fb664-6891-491e-b61d-7071fb09a163)
+
+
+
+
+
+
+
 
 
 
