@@ -96,7 +96,9 @@ For our model to work, we needed stats that effectively reflect the teams' perfo
 We dedicated the following numbers for each game's result:
 
 1 -> Home Win
+
 2 -> Away Win 
+
 3 -> Draw 
 
 In total, we stored data about the result of 159 matches of the 2023/24 Greek Super League
