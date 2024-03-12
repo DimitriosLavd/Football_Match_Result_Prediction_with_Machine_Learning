@@ -77,6 +77,11 @@ The raw data for this project was found in the following websites
 
 ### Data gathering and manipulation
 
+In order for the project to be personal and unique, I decided to firstly train my model with data from my native country's football league, the Greek Super League. Firstly, I found the relative data in tables at the FootyStats website. The tables had the following stracture: 
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/a547ddf1-096d-44f2-a0ea-cc238bb01ea0)
+
+
 
 
 
