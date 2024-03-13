@@ -126,6 +126,39 @@ league_stats = league_stats.set_index('Team')
 del league_results['match']
 ```
 
+Then we used the pandas library to combine the two datasets in one collective table and exported it as a CSV file [sl_final_table.csv]. We did so with the following code: 
+
+```python
+# create the collective Dataframe
+#home_team
+home_team = pd.DataFrame()
+home_team['home_team'] = league_results['home_team']
+home_team = league_stats.loc[home_team.home_team]
+home_team.reset_index(inplace = True, drop = False)
+home_team = home_team.add_suffix('_H')
+
+#away_team
+away_team = pd.DataFrame()
+away_team['away_team'] = league_results['away_team']
+away_team = league_stats.loc[away_team.away_team]
+away_team.reset_index(inplace = True, drop = False)
+away_team = away_team.add_suffix('_A')
+
+#goals and final result 
+result = pd.DataFrame()
+result['home_goals'] = league_results['home_goals']
+result['away_goals'] = league_results['away_goals']
+result['result'] = league_results['result']
+result
+
+#merge the created tables
+df_list = [home_team,away_team,result]
+sl_final_table = pd.concat(df_list, axis='columns')
+
+sl_final_table.to_csv("D:\data analysis_2\Case Studies\slpredictions\sl_final_table.csv")
+```
+
+
 
 
 
