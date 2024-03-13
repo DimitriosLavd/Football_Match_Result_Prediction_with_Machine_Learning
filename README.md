@@ -110,6 +110,23 @@ Results tabel -> SL_RESULTS.csv
 
 ### Data Manipulation 
 
+For our model to work, we needed to contain all the advanced stats and the results we collected, for each of the 159 matches.  We achieved this result using Python and the Pandas Library. 
+
+``` python
+# Import the relative libraries
+import pandas as pd
+
+# import the raw data-set
+league_stats = pd.read_csv("D:\data analysis_2\Case Studies\slpredictions\League_Advanced_Stats.csv")
+league_stats = league_stats.dropna(axis=1, how='all')
+league_results = pd.read_csv( "D:\data analysis_2\Case Studies\slpredictions\SL_RESULTS.csv")
+league_results = league_results.dropna(axis=1, how='all')
+league_results = league_results.drop('Unnamed: 7', axis=1)
+league_stats = league_stats.set_index('Team')
+del league_results['match']
+```
+
+
 
 
 
