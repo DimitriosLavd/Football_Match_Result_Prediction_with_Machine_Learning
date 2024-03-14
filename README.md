@@ -208,6 +208,15 @@ model = RandomForestClassifier(n_estimators=100)
 model.fit(train[x], train[y])
 ```
 
+After running our first model, it was finally time to evaluate its accuracy. We tested outr model on our holdout set: 
+
+```python
+test['result_hat'] = model.predict(test[x])
+test['correct'] = (test['result_hat'] == test[y])
+test['correct'].mean()
+```
+
+
 
 
 
