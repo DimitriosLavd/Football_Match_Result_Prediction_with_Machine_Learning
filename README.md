@@ -235,6 +235,8 @@ Out[98]: 0.4892857142857143
 
 As we can see, the model accuracy is indeed just under 50%. In fact, we can expect accuracy between 46% and 49%.Cross validation significantly reduced the noise of our model. It also helped to fully take advantage of our dataset. Running the model only one time, we only use 80% of our data to train our model, as the remaining 20% is used for the evaluation. With cross validation, each observation gets to be in the test data and the data used to train the model. That is because each time the test subgroup is different.
 
+### Improving model accuracy 
+
 
 
 
