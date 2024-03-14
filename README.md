@@ -276,6 +276,19 @@ model = RandomForestClassifier(n_estimators=100)
 model.fit(train[x], train[y])
 ```
 
+After running our new model, it was the moment of truth, cross validating our model and find its accuracy given the new larger dataset. 
+
+```python
+
+model = RandomForestClassifier(n_estimators=100)
+res = cross_val_score(model, SL_PL_table[x], SL_PL_table[y], cv=20)
+res.mean()
+Out[14]: 0.5317099567099567
+```
+
+
+
+
 
 
 
