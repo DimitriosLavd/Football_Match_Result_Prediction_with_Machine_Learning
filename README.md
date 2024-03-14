@@ -172,6 +172,22 @@ The final table had the following stracture:
 
 The next and main step of our project was to train a random forest to predict football match outcomes. We trained our model in python, using the scikit-learn library and the data set we previously created. We tried to train our model to classify a match as a home win, an away win or a draw, given the advanced stats that describe the two teams' performance thorough the championship. 
 
+Firstly, we imported the necessary libraries and our main data - set as shown on the following code: 
+
+```python
+#import important libraries
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
+import numpy as np
+from patsy import dmatrices
+from pandas import DataFrame, Series
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split, cross_val_score
+
+#import the dataset that we will use for our prediction model 
+SL_table = pd.read_csv("D:\data analysis_2\Case Studies\slpredictions\sl_final_table.csv")
+```
+
 
 
 
