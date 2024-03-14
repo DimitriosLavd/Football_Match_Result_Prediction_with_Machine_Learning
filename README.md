@@ -217,7 +217,9 @@ test['correct'].mean()
 Out[89]: 0.46875
 ```
 
+As we see, our model had a 46% accuracy on the test - data set. As we previously mentioned, if we predict a football match result completely by random, we have a 33% chance to find the correct result. Outperforming the 33% baseline means that our model shows promising potential. 
 
+### Model Cross Validation
 
 
 
