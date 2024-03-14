@@ -168,10 +168,11 @@ The final table had the following stracture:
 ![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/264d2c43-4d30-4695-a55d-02bfd92b7773)
 
 
-
-
-
 ### Model Building 
+
+The next and main step of our project was to train a random forest to predict football match outcomes. We trained our model in python, using the scikit-learn library and the data set we previously created. We tried to train our model to classify a match as a home win, an away win or a draw, given the advanced stats that describe the two teams' performance thorough the championship. 
+
+
 
 
 
