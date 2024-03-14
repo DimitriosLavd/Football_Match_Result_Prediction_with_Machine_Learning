@@ -1,4 +1,4 @@
- # Creating a machine learning model to predict the outcomes of football matches. 
+ # Creating a machine learning model to predict the outcome of football matches. 
 
 ### Project Overview
 
