@@ -1,8 +1,14 @@
-# Creating a machine learning model to predict the outcome of football matches. 
+# Creating a Machine Learning Model to Predict the Outcome of Football Matches. 
 
 ## Table of contents
 - [Project Overview](#project-overview)
 - [Project Layout and Goals](#project-layout-and-goals)
+- [Tools](#tools)
+- [Data Sources](#data-sources)
+- [Data Collection](#data-collection)
+- [Data Manipulation](#data-manipulation)
+- [Model Building](#model-building)
+- [Model Cross Validation](#model-cross-validation)
 
 ### Project Overview
 
