@@ -65,7 +65,7 @@ The ultimate goal of this project is to build a model, that will consider these 
 
 ### Data Sources
 
-The raw data for this project was found in the following websites 
+The raw data for this project was found in the following websites and book:
 
 - [FootyStats](https://footystats.org/)
 
@@ -74,6 +74,8 @@ The raw data for this project was found in the following websites
 - [Greek Super League](https://www.slgr.gr/el/)
 
 - [Premier League](https://www.premierleague.com/match/93600)
+
+- [Learn To Code With Football](https://www.codesoccer.com/fb/)
 
 ### Data Collection 
 
