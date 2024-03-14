@@ -1,5 +1,9 @@
 # Creating a machine learning model to predict the outcome of football matches. 
 
+## Table of contents
+- [Project Overview](#project-overview)
+- [Project Layout and Goals](#project-layout-and-goals)
+
 ### Project Overview
 
 My data analysis journey started by learning about data analysis processes and tools. For the last few months, I learned how to use Excel, Python, R and SQL to extract useful insights from large and complex data-sets. 
@@ -172,7 +176,7 @@ The final table had the following stracture:
 
 ### Model Building 
 
-The next and main step of our project was to train a random forest to predict football match outcomes. We trained our model in python, using the scikit-learn library and the data set we previously created. We tried to train our model to classify a match as a home win, an away win or a draw, given the advanced stats that describe the two teams' performance thorough the championship. 
+The next and main step of our project was to train a random forest to predict football matches' outcomes. We trained our model in python, using the scikit-learn library and the data set we previously created. We tried to train our model to classify a match as a home win, an away win or a draw, given the advanced stats that describe the two teams' performance thorough the championship. 
 
 Firstly, we imported the necessary libraries and our main data - set as shown on the following code: 
 
