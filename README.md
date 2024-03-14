@@ -286,6 +286,12 @@ res.mean()
 Out[14]: 0.5317099567099567
 ```
 
+Running the cross validation for a couple of times, we got an accuracy level between 52% and 55%. Increasing the observation points from 159 to 424, lead to the accuracy being increased by 5%
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/96ae1b17-e242-4b1a-833c-9ee33ec29b8f)
+
+
+
 
 
 
