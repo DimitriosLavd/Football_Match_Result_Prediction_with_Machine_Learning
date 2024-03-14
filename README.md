@@ -1,4 +1,4 @@
- # Creating a machine learning model to predict the outcome of football matches. 
+# Creating a machine learning model to predict the outcome of football matches. 
 
 ### Project Overview
 
@@ -297,7 +297,13 @@ We can now proudly say, that our model not only outperforms the 33% baseline, bu
 - Given reliable stats, we can indeed use a random forest model to predict some football match results.
 - Given reliable stats, we can indeed use a random forest model to predict some football match results. 
  We achieved accuracies between 52% and 55%. This percent is promising, as it is well better than the 33% we have, if we guess the result completely by 
- random.  
+ random.
+- For our model to be effective, we need to provide reliable data. In our case, that means data, that correctly reflect the teams' performance. Το achieve 
+  that, we need stats that are averages of numerous matches, preferably over 20.
+- Increasing number of observations, we provide for the model, significantly increases the model's accuracy.
+- As a future project, we can increase the number of observations even more, to boost the model's accuracy as much as we can.
+- We can also take other football factors into account. These factors can be possession percentage, passing accuracy percentage and many other factors.
+- 
 
 
 
