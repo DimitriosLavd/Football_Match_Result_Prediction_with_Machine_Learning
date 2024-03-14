@@ -9,6 +9,8 @@
 - [Data Manipulation](#data-manipulation)
 - [Model Building](#model-building)
 - [Model Cross Validation](#model-cross-validation)
+- [Improving model accuracy](#improving-model-accuracy)
+- [Results, observations and future improvements](#results-observations-and-future-improvements)
 
 ### Project Overview
 
