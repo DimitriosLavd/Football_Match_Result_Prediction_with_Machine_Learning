@@ -1,0 +1,425 @@
+match,home_team,away_team,home_goals,away_goals,result
+1,Volos New Football Club,Pas Lamia 1964,2,2,3
+2,PAS Giannina FC,Kifisias FC,3,0,1
+3,PAOK Thessaloniki FC,Asteras Tripolis FC,3,0,1
+4,Olympiakos CFP,Panserraikos FC,2,0,1
+5,AEK Athens FC,Panaitolikos GFS Agrinio,3,0,1
+6,Panathinaikos FC,Pae Aps Atromitos Athens,5,0,1
+7,Panaitolikos GFS Agrinio,PAS Giannina FC,0,0,3
+8,Asteras Tripolis FC,OFI FC,3,0,1
+9,Panathinaikos FC,Volos New Football Club,3,0,1
+10,AEK Athens FC,Panserraikos FC,1,1,3
+11,Pas Lamia 1964,Aris Thessaloniki FC,1,0,1
+12,PAOK Thessaloniki FC,Kifisias FC,2,1,1
+13,Olympiakos CFP,Pae Aps Atromitos Athens,4,0,1
+14,Kifisias FC,Pae Aps Atromitos Athens,2,1,1
+15,Panserraikos FC,Panaitolikos GFS Agrinio,1,1,3
+16,Aris Thessaloniki FC,Asteras Tripolis FC,3,2,1
+17,Olympiakos CFP,Pas Lamia 1964,4,0,1
+18,OFI FC,PAOK Thessaloniki FC,1,0,1
+19,Volos New Football Club,AEK Athens FC,2,3,2
+20,PAS Giannina FC,Panathinaikos FC,0,1,2
+21,Pas Lamia 1964,OFI FC,2,2,3
+22,Panaitolikos GFS Agrinio,Panathinaikos FC,0,5,2
+23,Asteras Tripolis FC,PAS Giannina FC,2,2,3
+24,Kifisias FC,Panserraikos FC,4,4,3
+25,PAOK Thessaloniki FC,Aris Thessaloniki FC,0,0,3
+26,AEK Athens FC,Olympiakos CFP,1,1,3
+27,Pae Aps Atromitos Athens,Volos New Football Club,1,1,3
+28,OFI FC,Pae Aps Atromitos Athens,1,1,3
+29,Panserraikos FC,Pas Lamia 1964,2,0,1
+30,Olympiakos CFP,Kifisias FC,4,0,1
+31,Aris Thessaloniki FC,Panaitolikos GFS Agrinio,3,0,1
+32,Volos New Football Club,Asteras Tripolis FC,1,2,2
+33,PAS Giannina FC,PAOK Thessaloniki FC,1,3,2
+34,Panathinaikos FC,AEK Athens FC,1,2,2
+35,Panaitolikos GFS Agrinio,OFI FC,1,1,3
+36,Kifisias FC,Pas Lamia 1964,1,1,3
+37,Olympiakos CFP,Aris Thessaloniki FC,4,1,1
+38,PAOK Thessaloniki FC,Volos New Football Club,3,0,1
+39,Panserraikos FC,PAS Giannina FC,3,2,1
+40,Aris Thessaloniki FC,Panathinaikos FC,1,4,2
+41,AEK Athens FC,Pae Aps Atromitos Athens,2,1,1
+42,Pas Lamia 1964,Panaitolikos GFS Agrinio,1,0,1
+43,Aris Thessaloniki FC,Kifisias FC,1,1,3
+44,Panathinaikos FC,PAOK Thessaloniki FC,2,2,3
+45,PAS Giannina FC,Olympiakos CFP,0,3,2
+46,OFI FC,AEK Athens FC,2,0,1
+47,Volos New Football Club,Panserraikos FC,1,0,1
+48,Pas Lamia 1964,PAS Giannina FC,2,1,1
+49,Panaitolikos GFS Agrinio,Volos New Football Club,2,0,1
+50,Aris Thessaloniki FC,Panserraikos FC,1,0,1
+51,Asteras Tripolis FC,AEK Athens FC,0,3,2
+52,Kifisias FC,OFI FC,0,0,3
+53,PAOK Thessaloniki FC,Pae Aps Atromitos Athens,2,0,1
+54,Olympiakos CFP,Panathinaikos FC,0,3,2
+55,Volos New Football Club,Kifisias FC,2,1,1
+56,Pae Aps Atromitos Athens,Panaitolikos GFS Agrinio,3,2,1
+57,Asteras Tripolis FC,Pas Lamia 1964,0,1,2
+58,Panathinaikos FC,Panserraikos FC,5,0,1
+59,Aris Thessaloniki FC,PAS Giannina FC,2,0,1
+60,AEK Athens FC,PAOK Thessaloniki FC,2,0,1
+61,OFI FC,Olympiakos CFP,0,2,2
+62,Pas Lamia 1964,Panathinaikos FC,1,2,2
+63,Kifisias FC,AEK Athens FC,1,1,3
+64,Panaitolikos GFS Agrinio,Asteras Tripolis FC,0,1,2
+65,PAS Giannina FC,Volos New Football Club,1,1,3
+66,Olympiakos CFP,PAOK Thessaloniki FC,2,4,2
+67,Aris Thessaloniki FC,Pae Aps Atromitos Athens,1,3,2
+68,Panserraikos FC,OFI FC,2,1,1
+69,OFI FC,PAS Giannina FC,1,1,3
+70,Pae Aps Atromitos Athens,Panserraikos FC,1,1,3
+71,Volos New Football Club,Aris Thessaloniki FC,0,2,2
+72,PAOK Thessaloniki FC,Panaitolikos GFS Agrinio,2,1,1
+73,AEK Athens FC,Pas Lamia 1964,3,0,1
+74,Asteras Tripolis FC,Olympiakos CFP,0,2,2
+75,Kifisias FC,Panathinaikos FC,0,1,2
+76,OFI FC,Volos New Football Club,1,1,3
+77,Olympiakos CFP,Panaitolikos GFS Agrinio,3,1,1
+78,PAOK Thessaloniki FC,Panserraikos FC,5,0,1
+79,Kifisias FC,Asteras Tripolis FC,1,3,2
+80,PAS Giannina FC,PAS Giannina FC,0,1,2
+81,Pas Lamia 1964,Pae Aps Atromitos Athens,3,3,3
+82,Aris Thessaloniki FC,Panathinaikos FC,2,0,1
+83,Panaitolikos GFS Agrinio,Kifisias FC,3,0,1
+84,Asteras Tripolis FC,Panserraikos FC,1,0,1
+85,Volos New Football Club,Olympiakos CFP,2,2,3
+86,Pae Aps Atromitos Athens,PAS Giannina FC,1,1,3
+87,Panathinaikos FC,OFI FC,4,0,1
+88,PAOK Thessaloniki FC,Pas Lamia 1964,3,0,1
+89,AEK Athens FC,Aris Thessaloniki FC,1,0,1
+90,Kifisias FC,PAS Giannina FC,4,2,1
+91,Aris Thessaloniki FC,OFI FC,1,0,1
+92,Asteras Tripolis FC,PAOK Thessaloniki FC,1,4,2
+93,Pas Lamia 1964,Volos New Football Club,1,2,2
+94,Pae Aps Atromitos Athens,Panathinaikos FC,3,2,1
+95,Panaitolikos GFS Agrinio,AEK Athens FC,2,2,3
+96,Panserraikos FC,Olympiakos CFP,0,1,2
+97,Aris Thessaloniki FC,Pas Lamia 1964,2,2,3
+98,Volos New Football Club,Panathinaikos FC,0,2,2
+99,PAS Giannina FC,Panaitolikos GFS Agrinio,0,0,3
+100,Panserraikos FC,AEK Athens FC,2,2,3
+101,OFI FC,Asteras Tripolis FC,0,2,2
+102,Kifisias FC,PAOK Thessaloniki FC,0,6,2
+103,Pae Aps Atromitos Athens,Olympiakos CFP,0,0,3
+104,Asteras Tripolis FC,Aris Thessaloniki FC,3,2,1
+105,Pas Lamia 1964,Olympiakos CFP,1,0,1
+106,AEK Athens FC,Volos New Football Club,3,0,1
+107,Panathinaikos FC,PAS Giannina FC,2,0,1
+108,Panaitolikos GFS Agrinio,Panserraikos FC,3,2,1
+109,Pae Aps Atromitos Athens,Kifisias FC,3,0,1
+110,Volos New Football Club,Pae Aps Atromitos Athens,1,2,2
+111,Panserraikos FC,Kifisias FC,1,1,3
+112,Panathinaikos FC,Panaitolikos GFS Agrinio,2,1,1
+113,PAS Giannina FC,Asteras Tripolis FC,2,1,1
+114,PAS Giannina FC,Asteras Tripolis FC,2,1,1
+115,Aris Thessaloniki FC,PAOK Thessaloniki FC,2,1,1
+116,Olympiakos CFP,AEK Athens FC,1,2,2
+117,OFI FC,Pas Lamia 1964,1,1,3
+118,Pae Aps Atromitos Athens,OFI FC,1,1,3
+119,Pas Lamia 1964,Panserraikos FC,0,2,2
+120,Panaitolikos GFS Agrinio,Aris Thessaloniki FC,0,4,2
+121,Kifisias FC,Olympiakos CFP,2,3,2
+122,Asteras Tripolis FC,Volos New Football Club,1,0,1
+123,AEK Athens FC,Panathinaikos FC,2,2,3
+124,PAOK Thessaloniki FC,PAS Giannina FC,4,0,1
+125,Pas Lamia 1964,Kifisias FC,4,1,1
+126,PAS Giannina FC,Panserraikos FC,0,2,2
+127,OFI FC,Panaitolikos GFS Agrinio,1,0,1
+128,Volos New Football Club,PAOK Thessaloniki FC,1,5,2
+129,Pae Aps Atromitos Athens,AEK Athens FC,0,5,2
+130,Panathinaikos FC,Asteras Tripolis FC,2,0,1
+131,Aris Thessaloniki FC,Olympiakos CFP,1,2,2
+132,Panaitolikos GFS Agrinio,Pas Lamia 1964,1,2,2
+133,Panserraikos FC,Volos New Football Club,2,2,3
+134,Kifisias FC,Aris Thessaloniki FC,0,1,2
+135,AEK Athens FC,OFI FC,3,0,1
+136,Asteras Tripolis FC,Pae Aps Atromitos Athens,3,1,1
+137,Olympiakos CFP,PAS Giannina FC,3,1,1
+138,PAOK Thessaloniki FC,Panathinaikos FC,2,1,1
+139,Volos New Football Club,Panaitolikos GFS Agrinio,1,1,3
+140,Panserraikos FC,Aris Thessaloniki FC,1,1,3
+141,OFI FC,Kifisias FC,1,2,2
+142,AEK Athens FC,Asteras Tripolis FC,4,2,1
+143,PAS Giannina FC,Pas Lamia 1964,1,4,2
+144,Pae Aps Atromitos Athens,PAOK Thessaloniki FC,0,2,2
+145,Panathinaikos FC,Olympiakos CFP,2,0,1
+146,Olympiakos CFP,OFI FC,4,0,1
+147,PAS Giannina FC,Aris Thessaloniki FC,0,0,3
+148,Panaitolikos GFS Agrinio,Pae Aps Atromitos Athens,1,0,1
+149,Kifisias FC,Volos New Football Club,0,0,3
+150,Panserraikos FC,Panathinaikos FC,0,3,2
+151,Pas Lamia 1964,Asteras Tripolis FC,2,1,1
+152,PAOK Thessaloniki FC,AEK Athens FC,1,1,3
+153,Pae Aps Atromitos Athens,Aris Thessaloniki FC,0,2,2
+154,Panathinaikos FC,Pas Lamia 1964,2,2,3
+155,Volos New Football Club,PAS Giannina FC,1,2,2
+156,AEK Athens FC,Kifisias FC,3,0,1
+157,PAOK Thessaloniki FC,Olympiakos CFP,1,4,2
+158,OFI FC,Panserraikos FC,4,0,1
+159,Aris Thessaloniki FC,Panaitolikos GFS Agrinio,2,2,3
+160,Burnley FC,Manchester City FC,0,3,2
+161,Newcastle United FC,Aston Villa FC,5,1,1
+162,Sheffield United FC,Crystal Palace FC,0,1,2
+163,Everton FC,Fulham FC,0,1,2
+164,Brighton & Hove Albion FC,Luton Town FC,4,1,1
+165,AFC Bournemouth,West Ham United FC,1,1,3
+166,Arsenal FC,Nottingham Forest FC,1,1,3
+167,Chelsea FC,Liverpool FC,1,1,3
+168,Brentford FC,Tottenham Hotspur FC,2,2,3
+169,Manchester United FC,Wolverhampton Wanderers FC,1,0,1
+170,Nottingham Forest FC,Sheffield United FC,2,1,1
+171,Manchester City FC,Newcastle United FC,1,0,1
+172,Tottenham Hotspur FC,Manchester United FC,2,0,1
+173,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1,4,2
+174,Liverpool FC,AFC Bournemouth,3,1,1
+175,Fulham FC,Brentford FC,0,3,2
+176,West Ham United FC,Chelsea FC,3,1,1
+177,Aston Villa FC,Everton FC,4,0,1
+178,Crystal Palace FC,Arsenal FC,0,1,2
+179,Chelsea FC,Luton Town FC,3,0,1
+180,Brighton & Hove Albion FC,Luton Town FC,1,3,2
+181,Manchester United FC,Nottingham Forest FC,3,2,1
+182,Everton FC,Wolverhampton Wanderers FC,0,1,2
+183,Brentford FC,Crystal Palace FC,1,1,3
+184,Arsenal FC,Fulham FC,2,2,3
+185,AFC Bournemouth,Tottenham Hotspur FC,0,2,2
+186,Newcastle United FC,Liverpool FC,1,2,2
+187,Sheffield United FC,Manchester City FC,1,2,2
+188,Burnley FC,Aston Villa FC,1,3,2
+189,Luton Town FC,West Ham United FC,1,2,2
+190,Brighton & Hove Albion FC,Newcastle United FC,3,1,1
+191,Manchester City FC,Fulham FC,5,1,1
+192,Chelsea FC,Nottingham Forest FC,0,1,2
+193,Burnley FC,Tottenham Hotspur FC,2,5,2
+194,Brentford FC,AFC Bournemouth,2,2,3
+195,Sheffield United FC,Everton FC,2,2,3
+196,Arsenal FC,Manchester United FC,3,1,1
+197,Liverpool FC,Aston Villa FC,3,0,1
+198,Crystal Palace FC,Wolverhampton Wanderers FC,3,2,1
+199,Newcastle United FC,Brentford FC,1,0,1
+200,West Ham United FC,Manchester City FC,1,3,2
+201,Tottenham Hotspur FC,Sheffield United FC,2,1,1
+202,Manchester United FC,Brighton & Hove Albion FC,1,3,2
+203,Fulham FC,Luton Town FC,1,0,1
+204,Aston Villa FC,Crystal Palace FC,3,1,1
+205,Wolverhampton Wanderers FC,Liverpool FC,1,3,2
+206,Everton FC,Arsenal FC,0,1,2
+207,AFC Bournemouth,Chelsea FC,0,0,3
+208,Nottingham Forest FC,Burnley FC,1,1,3
+209,Burnley FC,Manchester United FC,0,1,2
+210,Brentford FC,Everton FC,1,3,3
+211,Manchester City FC,Nottingham Forest FC,2,0,1
+212,Luton Town FC,Wolverhampton Wanderers FC,1,1,3
+213,Crystal Palace FC,Fulham FC,0,0,3
+214,Sheffield United FC,Newcastle United FC,0,8,2
+215,Liverpool FC,West Ham United FC,3,1,1
+216,Chelsea FC,Aston Villa FC,0,1,2
+217,Brighton & Hove Albion FC,AFC Bournemouth,3,1,1
+218,Arsenal FC,Tottenham Hotspur FC,2,2,3
+219,Tottenham Hotspur FC,Liverpool FC,2,1,1
+220,Wolverhampton Wanderers FC,Manchester City FC,2,1,1
+221,West Ham United FC,Sheffield United FC,2,0,1
+222,Newcastle United FC,Burnley FC,2,0,1
+223,Manchester United FC,Crystal Palace FC,0,1,2
+224,Everton FC,Luton Town FC,1,2,2
+225,AFC Bournemouth,Arsenal FC,0,4,2
+226,Aston Villa FC,Brighton & Hove Albion FC,6,1,1
+227,Nottingham Forest FC,Brentford FC,1,1,3
+228,Fulham FC,Chelsea FC,0,2,2
+229,Luton Town FC,Burnley FC,1,2,2
+230,Crystal Palace FC,Nottingham Forest FC,0,0,3
+231,Manchester United FC,Brentford FC,2,1,1
+232,Fulham FC,Sheffield United FC,3,1,1
+233,Everton FC,AFC Bournemouth,3,0,1
+234,Burnley FC,Chelsea FC,1,4,2
+235,Luton Town FC,Tottenham Hotspur FC,0,1,2
+236,Arsenal FC,Manchester City FC,1,0,1
+237,Wolverhampton Wanderers FC,Aston Villa FC,1,1,3
+238,West Ham United FC,Newcastle United FC,2,2,3
+239,Brighton & Hove Albion FC,Liverpool FC,2,2,3
+240,Sheffield United FC,Manchester United FC,1,2,2
+241,Chelsea FC,Arsenal FC,2,2,3
+242,Nottingham Forest FC,Luton Town FC,2,2,3
+243,Newcastle United FC,Crystal Palace FC,4,0,1
+244,Manchester City FC,Brighton & Hove Albion FC,2,1,1
+245,Brentford FC,Burnley FC,3,0,1
+246,AFC Bournemouth,Wolverhampton Wanderers FC,1,2,2
+247,Liverpool FC,Everton FC,2,0,1
+248,Aston Villa FC,West Ham United FC,4,1,1
+249,Tottenham Hotspur FC,Fulham FC,2,0,1
+250,Crystal Palace FC,Tottenham Hotspur FC,1,2,2
+251,Wolverhampton Wanderers FC,Newcastle United FC,2,2,3
+252,AFC Bournemouth,Burnley FC,2,1,1
+253,Arsenal FC,Sheffield United FC,5,0,1
+254,Chelsea FC,Brentford FC,0,2,2
+255,Manchester United FC,Manchester City FC,0,3,2
+256,Liverpool FC,Nottingham Forest FC,3,0,1
+257,Brighton & Hove Albion FC,Fulham FC,1,1,3
+258,Aston Villa FC,Luton Town FC,3,1,1
+259,West Ham United FC,Everton FC,0,1,1
+260,Newcastle United FC,Arsenal FC,1,0,1
+261,Sheffield United FC,Wolverhampton Wanderers FC,2,1,1
+262,Manchester City FC,AFC Bournemouth,6,1,1
+263,Everton FC,Brighton & Hove Albion FC,1,1,3
+264,Brentford FC,West Ham United FC,3,2,1
+265,Burnley FC,Crystal Palace FC,0,2,2
+266,Fulham FC,Manchester United FC,0,1,2
+267,Luton Town FC,Liverpool FC,1,1,3
+268,Nottingham Forest FC,Aston Villa FC,2,0,1
+269,Tottenham Hotspur FC,Chelsea FC,1,4,2
+270,AFC Bournemouth,Newcastle United FC,2,0,1
+271,Manchester United FC,Luton Town FC,1,0,1
+272,Crystal Palace FC,Everton FC,2,3,2
+273,Arsenal FC,Burnley FC,3,1,1
+274,Wolverhampton Wanderers FC,Tottenham Hotspur FC,2,1,1
+275,Chelsea FC,Manchester City FC,4,4,3
+276,West Ham United FC,Nottingham Forest FC,3,2,1
+277,Liverpool FC,Brentford FC,3,0,1
+278,Brighton & Hove Albion FC,Sheffield United FC,1,1,3
+279,Aston Villa FC,Fulham FC,3,1,1
+280,Brentford FC,Arsenal FC,0,1,2
+281,Sheffield United FC,AFC Bournemouth,1,3,2
+282,Nottingham Forest FC,Brighton & Hove Albion FC,2,3,2
+283,Newcastle United FC,Chelsea FC,4,1,1
+284,Luton Town FC,Crystal Palace FC,2,1,1
+285,Burnley FC,West Ham United FC,1,2,2
+286,Manchester City FC,Liverpool FC,1,1,3
+287,Everton FC,Manchester United FC,0,3,2
+288,Tottenham Hotspur FC,Aston Villa FC,1,2,2
+289,Fulham FC,Wolverhampton Wanderers FC,3,2,1
+290,Newcastle United FC,Manchester United FC,1,0,1
+291,Nottingham Forest FC,Everton FC,0,1,2
+292,Burnley FC,Sheffield United FC,5,0,1
+293,Brentford FC,Luton Town FC,3,1,1
+294,Arsenal FC,Wolverhampton Wanderers FC,2,1,1
+295,Manchester City FC,Tottenham Hotspur FC,3,3,3
+296,West Ham United FC,Crystal Palace FC,1,1,3
+297,Liverpool FC,Fulham FC,4,3,1
+298,Chelsea FC,Brighton & Hove Albion FC,3,2,1
+299,AFC Bournemouth,Aston Villa FC,2,2,3
+300,Luton Town FC,Arsenal FC,3,4,2
+301,Wolverhampton Wanderers FC,Burnley FC,1,0,1
+302,Manchester United FC,Chelsea FC,2,1,1
+303,Aston Villa FC,Manchester City FC,1,0,1
+304,Sheffield United FC,Liverpool FC,0,2,2
+305,Fulham FC,Nottingham Forest FC,5,0,1
+306,Crystal Palace FC,AFC Bournemouth,0,2,2
+307,Brighton & Hove Albion FC,Brentford FC,2,1,1
+308,Tottenham Hotspur FC,West Ham United FC,1,2,2
+309,Everton FC,Newcastle United FC,3,0,1
+310,Aston Villa FC,Arsenal FC,1,0,1
+311,Wolverhampton Wanderers FC,Nottingham Forest FC,1,1,3
+312,Sheffield United FC,Brentford FC,1,0,1
+313,Manchester United FC,AFC Bournemouth,0,3,2
+314,Brighton & Hove Albion FC,Burnley FC,1,1,3
+315,Crystal Palace FC,Liverpool FC,1,2,2
+316,Tottenham Hotspur FC,Newcastle United FC,4,1,1
+317,Luton Town FC,Manchester City FC,1,2,2
+318,Fulham FC,West Ham United FC,5,0,1
+319,Everton FC,Chelsea FC,2,0,1
+320,Nottingham Forest FC,Tottenham Hotspur FC,0,2,2
+321,Burnley FC,Everton FC,0,2,2
+322,Newcastle United FC,Fulham FC,3,0,1
+323,Manchester City FC,Crystal Palace FC,2,2,3
+324,Chelsea FC,Sheffield United FC,2,0,1
+325,Liverpool FC,Manchester United FC,0,0,3
+326,West Ham United FC,Wolverhampton Wanderers FC,3,0,1
+327,Brentford FC,Aston Villa FC,1,2,2
+328,Arsenal FC,Brighton & Hove Albion FC,2,0,1
+329,Crystal Palace FC,Brighton & Hove Albion FC,1,1,3
+330,Aston Villa FC,Sheffield United FC,1,1,3
+331,Liverpool FC,Arsenal FC,1,1,3
+332,Tottenham Hotspur FC,Everton FC,2,1,1
+333,Nottingham Forest FC,AFC Bournemouth,2,3,2
+334,Luton Town FC,Newcastle United FC,1,0,1
+335,Fulham FC,Burnley FC,0,2,2
+336,West Ham United FC,Manchester United FC,2,0,1
+337,Wolverhampton Wanderers FC,Chelsea FC,2,1,1
+338,Manchester United FC,Aston Villa FC,3,2,1
+339,Burnley FC,Liverpool FC,0,2,2
+340,Sheffield United FC,Luton Town FC,2,3,2
+341,AFC Bournemouth,Fulham FC,3,0,1
+342,Newcastle United FC,Nottingham Forest FC,1,3,2
+343,Everton FC,Manchester City FC,1,3,2
+344,Chelsea FC,Crystal Palace FC,2,1,1
+345,Brentford FC,Wolverhampton Wanderers FC,1,4,2
+346,Arsenal FC,West Ham United FC,0,2,2
+347,Brighton & Hove Albion FC,Tottenham Hotspur FC,4,2,1
+348,Nottingham Forest FC,Manchester United FC,2,1,1
+349,Wolverhampton Wanderers FC,Everton FC,3,0,1
+350,Manchester City FC,Sheffield United FC,2,0,1
+351,Crystal Palace FC,Brentford FC,3,1,1
+352,Aston Villa FC,Burnley FC,3,2,1
+353,Luton Town FC,Chelsea FC,2,3,2
+354,Tottenham Hotspur FC,AFC Bournemouth,3,1,1
+355,Fulham FC,Arsenal FC,2,1,1
+356,Liverpool FC,Newcastle United FC,4,2,1
+357,West Ham United FC,Brighton & Hove Albion FC,0,0,3
+358,Burnley FC,Luton Town FC,1,1,3
+359,Newcastle United FC,Manchester City FC,2,3,2
+360,Chelsea FC,Fulham FC,1,0,1
+361,Manchester United FC,Tottenham Hotspur FC,2,2,3
+362,Everton FC,Aston Villa FC,0,0,3
+363,Brentford FC,Nottingham Forest FC,3,2,1
+364,Arsenal FC,Crystal Palace FC,5,0,1
+365,AFC Bournemouth,Liverpool FC,0,4,2
+366,Sheffield United FC,West Ham United FC,2,2,3
+367,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,0,0,3
+368,Aston Villa FC,Newcastle United FC,1,3,2
+369,Crystal Palace FC,Sheffield United FC,3,2,1
+370,Luton Town FC,Brighton & Hove Albion FC,4,0,1
+371,Fulham FC,Everton FC,0,0,3
+372,Nottingham Forest FC,Arsenal FC,1,2,2
+373,Liverpool FC,Chelsea FC,4,1,1
+374,Tottenham Hotspur FC,Brentford FC,3,2,1
+375,Manchester City FC,Burnley FC,3,1,1
+376,Wolverhampton Wanderers FC,Manchester United FC,3,4,2
+377,West Ham United FC,AFC Bournemouth,1,1,3
+378,Sheffield United FC,Aston Villa FC,0,5,2
+379,Newcastle United FC,Luton Town FC,4,4,3
+380,Burnley FC,Fulham FC,2,2,3
+381,Brighton & Hove Albion FC,Crystal Palace FC,4,1,1
+382,Everton FC,Tottenham Hotspur FC,2,2,3
+383,Arsenal FC,Liverpool FC,3,1,1
+384,Manchester United FC,West Ham United FC,3,0,1
+385,Chelsea FC,Wolverhampton Wanderers FC,2,4,2
+386,AFC Bournemouth,Nottingham Forest FC,1,1,3
+387,Brentford FC,Manchester City FC,1,3,2
+388,Nottingham Forest FC,Newcastle United FC,2,3,2
+389,Wolverhampton Wanderers FC,Brentford FC,0,2,2
+390,Tottenham Hotspur FC,Brighton & Hove Albion FC,2,1,1
+391,Luton Town FC,Sheffield United FC,1,3,2
+392,Liverpool FC,Burnley FC,3,1,1
+393,Fulham FC,AFC Bournemouth,3,1,1
+394,Manchester City FC,Everton FC,2,0,1
+395,Aston Villa FC,Manchester United FC,1,2,2
+396,West Ham United FC,Arsenal FC,0,6,2
+397,Crystal Palace FC,Chelsea FC,1,3,2
+398,Manchester City FC,Chelsea FC,1,1,3
+399,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1,2,2
+400,Nottingham Forest FC,West Ham United FC,2,0,1
+401,Newcastle United FC,AFC Bournemouth,2,2,3
+402,Fulham FC,Aston Villa FC,1,2,2
+403,Burnley FC,Arsenal FC,0,5,2
+404,Brentford FC,Liverpool FC,1,4,2
+405,Luton Town FC,Manchester United FC,1,2,2
+406,Sheffield United FC,Brighton & Hove Albion FC,0,5,2
+407,Everton FC,Crystal Palace FC,1,1,3
+408,Manchester City FC,Brentford FC,1,0,1
+409,Liverpool FC,Luton Town FC,4,1,1
+410,Arsenal FC,Newcastle United FC,4,1,1
+411,AFC Bournemouth,Manchester City FC,0,1,2
+412,Manchester United FC,Fulham FC,1,2,2
+413,Crystal Palace FC,Burnley FC,3,0,1
+414,Brighton & Hove Albion FC,Everton FC,1,1,3
+415,Aston Villa FC,Nottingham Forest FC,4,2,1
+416,Wolverhampton Wanderers FC,Sheffield United FC,1,0,1
+417,West Ham United FC,Brentford FC,4,2,1
+418,Luton Town FC,Aston Villa FC,2,3,2
+419,Tottenham Hotspur FC,Crystal Palace FC,3,1,1
+420,Nottingham Forest FC,Liverpool FC,0,1,2
+421,Fulham FC,Brighton & Hove Albion FC,3,0,1
+422,Everton FC,West Ham United FC,1,3,2
+423,Brentford FC,Chelsea FC,2,2,3
+424,Burnley FC,AFC Bournemouth,0,2,2
