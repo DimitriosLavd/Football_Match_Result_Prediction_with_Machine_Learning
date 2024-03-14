@@ -1,4 +1,4 @@
-# Creating a machine learning model to predict the outcomes of football matches. 
+ # Creating a machine learning model to predict the outcomes of football matches. 
 
 ### Project Overview
 
@@ -221,8 +221,15 @@ As we see, our model had a 46% accuracy on the test - data set. As we previously
 
 ### Model Cross Validation
 
+Random forest, as shown by its name, is heavily affected by randomness and noise. Although we got a promising result, we needed to validate that the accuracy of the model is indeed close to 46%. There is always a chance that the model performed too good or too bad on the particular holdout set, we provided. So we separated the dataset on 10 different subgroups and run the model 10 different times. Each time, 1 group served as a test data set, and the remaining 9 groups were used to train the model. This way we produced 10 separate accuracy numbers and their average is the real accuracy of the model. 
 
-
+```python
+#crossval
+model = RandomForestClassifier(n_estimators=100)
+res = cross_val_score(model, SL_table[x], SL_table[y], cv=20)
+res.mean()
+Out[98]: 0.4892857142857143
+```
 
 
 
