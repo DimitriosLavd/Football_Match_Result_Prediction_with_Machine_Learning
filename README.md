@@ -290,6 +290,15 @@ Running the cross validation for a couple of times, we got an accuracy level bet
 
 ![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/96ae1b17-e242-4b1a-833c-9ee33ec29b8f)
 
+We can now proudly say, that our model not only outperforms the 33% baseline, but it can correctly find the outcome of a football match more than half of the times. 
+
+### Results, observations and future improvements
+
+- Given reliable stats, we can indeed use a random forest model to predict some football match results.
+- Given reliable stats, we can indeed use a random forest model to predict some football match results. 
+ We achieved accuracies between 52% and 55%. This percent is promising, as it is well better than the 33% we have, if we guess the result completely by 
+ random.  
+
 
 
 
