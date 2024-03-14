@@ -158,6 +158,21 @@ sl_final_table = pd.concat(df_list, axis='columns')
 sl_final_table.to_csv("D:\data analysis_2\Case Studies\slpredictions\sl_final_table.csv")
 ```
 
+The final table had the following stracture: 
+
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/5a73149f-f3d8-44eb-8fb0-cddbe37acb0a)
+
+
+
+![image](https://github.com/DimitriosLavd/Football_match_predictions/assets/157892523/264d2c43-4d30-4695-a55d-02bfd92b7773)
+
+
+
+
+
+### Model Building 
+
 
 
 
