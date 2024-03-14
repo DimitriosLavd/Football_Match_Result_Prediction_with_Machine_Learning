@@ -303,7 +303,7 @@ We can now proudly say, that our model not only outperforms the 33% baseline, bu
 - Increasing number of observations, we provide for the model, significantly increases the model's accuracy.
 - As a future project, we can increase the number of observations even more, to boost the model's accuracy as much as we can.
 - We can also take other football factors into account. These factors can be possession percentage, passing accuracy percentage and many other factors.
-- 
+- Finally, we can examine the feature importance to see which variables are more important.
 
 
 
